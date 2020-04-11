@@ -1,0 +1,5 @@
+#+TITLE:   doom-emacs configuration
+#+DATE:    April 11, 2020
+#+STARTUP: inlineimages nofold
+
+My [[https://github.com/hlissner/doom-emacs/][doom-emacs]] configuration
